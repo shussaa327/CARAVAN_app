@@ -1,24 +1,9 @@
-# README
+# 概要
+DMM WEBCAMP学習コンテンツ【アプリケーションを完成させよう】の学習過程で作成したアプリケーションです。  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 機能・技術
+* HTML/CSS/Ruby/Ruby on Rails
+* 記事一覧、詳細表示機能
+* 記事投稿機能
+* 記事編集・削除機能
+* 画像投稿機能(RubyGems),ライブラリ(ImageMagick)
